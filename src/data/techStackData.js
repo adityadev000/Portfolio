@@ -1,11 +1,11 @@
 
 import htmlIcon from "../images/SkillsIcon/HTML.png" ; 
 import cssIcon from "../images/SkillsIcon/CSS.png" ; 
-import jsIcon from "../images/SkillsIcon/javascript.svg" ; 
+import jsIcon from "../images/SkillsIcon/Javascriptt.svg" ; 
 import reactIcon from "../images/SkillsIcon/React.png" ; 
 import nodeIcon from "../images/SkillsIcon/NodeJs.svg" ; 
 import expressIcon from "../images/SkillsIcon/Express.png" ; 
-import mongodbIcon from "../images/SkillsIcon/MongoDb.svg" ; 
+import mongodbIcon from "../images/SkillsIcon/MongoDBb.svg" ; 
 import tailwindIcon from "../images/SkillsIcon/Tailwind.png" ; 
 import reduxIcon from "../images/SkillsIcon/Redux.svg" ; 
 import gitIcon from "../images/SkillsIcon/Git.svg" ; 
