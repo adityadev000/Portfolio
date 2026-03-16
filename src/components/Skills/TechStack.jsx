@@ -1,5 +1,5 @@
     import { useSelector } from "react-redux";
-import { techStack } from "../../data/techStackData";
+    import { techStackData } from "../../data/techStackData";
     import { motion } from "framer-motion";
 
     const TechStack = () => {
@@ -45,7 +45,7 @@ import { techStack } from "../../data/techStackData";
 
             <div className="relative grid grid-cols-4 gap-5 sm:gap-10 justify-items-center">
 
-                {techStack.map((tech, index) => (
+                {techStackData.map((tech, index) => (
                 <motion.div
                     key={index}
                     whileHover={{ scale: 1.15 }}
