@@ -1,5 +1,5 @@
     import { useSelector } from "react-redux";
-import { techStack } from "../../data/techStack";
+import { techStack } from "../../data/techStackData";
     import { motion } from "framer-motion";
 
     const TechStack = () => {

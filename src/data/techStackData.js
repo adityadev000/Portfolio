@@ -11,7 +11,7 @@ import redux from "../images/SkillsIcon/Redux.svg" ;
 import git from "../images/SkillsIcon/Git.svg" ; 
 import github from  "../images/SkillsIcon/Github.svg" ; 
 import vercel from  "../images/SkillsIcon/Vercel.svg"; 
-export const techStack = [
+export const techStackData = [
   { name: "HTML", icon: html },
   { name: "CSS", icon: css },
   { name: "JavaScript", icon: js },
