@@ -10,7 +10,7 @@ const socialLinks = [
 	{
 		id: 1,
 		icon: <FiGlobe />,
-		url: 'https://www.stoman.me/',
+		url: 'https://portfolio-one-smoky-jbfa8heuaz.vercel.app/',
 	},
 	{
 		id: 2,
