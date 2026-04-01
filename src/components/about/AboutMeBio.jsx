@@ -102,7 +102,7 @@
 
 			<a
 				download="Aditya-Resume.pdf"
-				href="../../../public/file/cv.pdfpban"
+				href="/Aditya_dev_cv.pdf"
 				target="_blank"
 				rel="noreferrer"
 				className="flex items-center gap-2 px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition"
