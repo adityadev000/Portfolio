@@ -102,7 +102,7 @@
 
 			<a
 				download="Aditya-Resume.pdf"
-				href="/Aditya_dev_cv.pdf"
+				href="/cv.pdf"
 				target="_blank"
 				rel="noreferrer"
 				className="flex items-center gap-2 px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition"
@@ -117,7 +117,7 @@
 				target="_blank"
 				rel="noreferrer"
 				className={`flex items-center gap-2 px-6 py-3 border ${theme === 'dark' ? 'border-slate-600 text-slate-300 hover:bg-slate-800' : ' border-slate-300 text-slate-600 hover:bg-slate-100' }  
-				 rounded-lg  transition`}
+				rounded-lg  transition`}
 			>
 				<Github size={18} />
 				GitHub
