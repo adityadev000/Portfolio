@@ -50,7 +50,7 @@ const AppBanner = () => {
 				>
 					<a
 						download="Aditya-Resume.pdf"
-						href="../../../public/file/cv.pdf"
+						href="/cv.pdf"
 						className= {`font-general-medium flex justify-center items-center w-36 sm:w-48 mt-12 mb-6 
 						sm:mb-0 text-lg border ${theme === 'dark' ? ' border-indigo-200 hover:text-white' : ' border-gray-200 hover:text-black' }   py-2.5 sm:py-3 shadow-lg rounded-lg 
 						bg-indigo-50 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500  text-gray-500  duration-500`}
